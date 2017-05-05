@@ -1,17 +1,27 @@
 #-----------------------------------
 # AMeddens GITHUB tutorial
 #-----------------------------------
+
 https://evanwill.github.io/_drafts/notes/git-collaboration.html
 
 # Example code for git:
 
 
 # Config:
+
 git config --global user.name "ameddens"
+
 git config --global user.name "ameddens@uidaho.edu"
+
 git config --global core.editor “edit -w”
+
 git config --global core.editor “VIM”
 
+paragraph.
+line.
+break.
+
+new paragrah.
 
 # Working
 ls -a
